@@ -17,4 +17,4 @@ const yourProfile = (firstName, lastName, hobbyOne, hobbyTwo, hobbyThree) => {
 }
 
 yourProfile();
-console.log(yourProfile("Alessandra", "Sette", "Fotografia", "Viaggi", "Lettura"))
+console.log(yourProfile("Alessandra", "Sette", "Fotografia", "Viaggi", "Lettura"));

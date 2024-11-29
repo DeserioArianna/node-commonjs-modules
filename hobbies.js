@@ -5,6 +5,9 @@ const yourHobbies = (hobbyOne, hobbyTwo, hobbyThree) => {
     return hobby;
 };
 
-module.exports = {
-    yourHobbies
-};
+// module.exports = {
+//     yourHobbies
+// };
+
+
+export default yourHobbies;
